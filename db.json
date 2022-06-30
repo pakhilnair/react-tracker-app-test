@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "id": 3,
-      "text": "Sell Shoes",
-      "date": "July 4th at 11:00AM",
-      "reminder": true
+      "text": "Return Shoes",
+      "date": "July 1st at 12:00PM",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
