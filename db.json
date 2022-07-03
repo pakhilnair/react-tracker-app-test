@@ -10,12 +10,12 @@
       "id": 2,
       "text": "Buy Shampoo",
       "date": "Sept 27th at 5:30PM",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Return Shoes",
       "date": "July 1st at 12:00PM",
-      "reminder": true,
+      "reminder": false,
       "id": 3
     }
   ]
